@@ -133,3 +133,4 @@ Error: 	File: /aws/db-app.tf:1-41
 		41 | }
 Check: CKV_AWS_226: "Ensure DB instance gets all minor upgrades automatically"
 	FAILED for resource: aws_db_instance.default
+    
